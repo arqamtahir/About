@@ -29,6 +29,13 @@ I'm always looking to improve my skills and learn new technologies. Here are a f
 ## 📈 GitHub Stats
 
 ![arqamtahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqamtahir&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqamtahir&layout=compact&theme=radical)
+
+## 🛠️ Contributions
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arqamtahir&theme=radical)
+![arqamtahir's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=arqamtahir&theme=radical)
+
 
 ## 🔗 Connect with Me
 

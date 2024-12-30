@@ -28,7 +28,7 @@ I'm always looking to improve my skills and learn new technologies. Here are a f
 
 ## 📈 GitHub Stats
 
-![arqamtahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqamtahir&show_icons=true&theme=radical)
+![arqamtahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqamtahir&show_icons=true&theme=merko)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqamtahir&layout=compact&theme=radical)
 

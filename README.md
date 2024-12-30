@@ -34,7 +34,7 @@ I'm always looking to improve my skills and learn new technologies. Here are a f
 
 ## 🛠️ Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arqamtahir&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arqamtahir&theme=dracula)
 
 
 ## 🔗 Connect with Me

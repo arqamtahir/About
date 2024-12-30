@@ -10,9 +10,9 @@ Backend: Node.js, Express.js
 Databases: MongoDB, MySQL
 CSS Frameworks: Tailwind CSS, Bootstrap (4 & 5), SCSS/SASS
 
-- 🌍 I'm currently based in [pakistan]
-- 🛠️ I’m currently working on [Nice2stay] as a [software engineer]
-- 📫 How to reach me: [muhammadarqam920@gmail.com]
+- 🌍 I'm currently based in pakistan
+- 🛠️ I’m currently working on Nice2stay as a software engineer
+- 📫 How to reach me: muhammadarqam920@gmail.com
 
 ## 🔧 Technologies & Tools
 
@@ -28,7 +28,7 @@ Proficiencies:
 
 I'm always looking to improve my skills and learn new technologies. Here are a few things I'm currently exploring:
 
-- [DevOps]
+- DevOps
 
 ## 📈 GitHub Stats
 

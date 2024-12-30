@@ -30,7 +30,7 @@ I'm always looking to improve my skills and learn new technologies. Here are a f
 
 ![arqamtahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=arqamtahir&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqamtahir&layout=compact&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arqamtahir&layout=compact&theme=synthwave)
 
 ## 🛠️ Contributions
 

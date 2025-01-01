@@ -39,7 +39,7 @@ I'm always looking to improve my skills and learn new technologies. Here are a f
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/arqamtahir)
+- [LinkedIn](https://www.linkedin.com/in/arqam-tahir)
 
 ---
 ⭐️ From [arqamtahir](https://github.com/arqamtahir)
